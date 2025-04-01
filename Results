@@ -1,0 +1,31 @@
+File Organizer Log
+-------------------
+Start Time: 2025-04-01 10:30:00
+
+Directory to organize: /home/user/Downloads
+
+Created folder: /home/user/Downloads/Images
+Created folder: /home/user/Downloads/Documents
+Created folder: /home/user/Downloads/Videos
+Created folder: /home/user/Downloads/Music
+Created folder: /home/user/Downloads/Archives
+Created folder: /home/user/Downloads/Others
+
+Moving files...
+
+Moved: /home/user/Downloads/photo.jpg → /home/user/Downloads/Images/
+Moved: /home/user/Downloads/document.pdf → /home/user/Downloads/Documents/
+Moved: /home/user/Downloads/video.mp4 → /home/user/Downloads/Videos/
+Moved: /home/user/Downloads/song.mp3 → /home/user/Downloads/Music/
+Moved: /home/user/Downloads/archive.zip → /home/user/Downloads/Archives/
+
+Files moved successfully.
+
+Errors:
+- No permission to move file: /home/user/Downloads/protected_file.txt
+- Unknown extension for file: /home/user/Downloads/file.unknown (Moved to Others)
+
+End Time: 2025-04-01 10:35:00
+Execution Time: 00:05:00
+
+Log File Generated: /home/user/Downloads/file_organizer.log
