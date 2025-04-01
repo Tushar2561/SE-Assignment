@@ -1,12 +1,19 @@
 File Organizer Automation
+
 Overview
 The File Organizer Automation System is a Bash script that automatically sorts files into categorized folders based on their extensions. It helps keep directories organized without manual intervention.
+
  Features
 Automatically scans a specified directory 
+
 Sorts files into categories (Images, Documents, Videos, Music, Archives, Others)
+
 Creates folders if they don't exist
+
 Logs all operations in a file for tracking
+
 Handles errors (e.g., permission issues, missing files)
+
  How to Use
 1. Clone the Repository
 git clone [Your Repository URL]
