@@ -39,6 +39,4 @@ Future Enhancements
 3.	Schedule automation using cron jobs.
 License
 This project is open-source and licensed under the MIT License.
-Contact
-For any issues or suggestions, feel free to create an issue or reach out at [Your Contact Info].
-You can now paste this content into Microsoft Word, and it will maintain its readability and clarity. Let me know if you need any further adjustments!
+
